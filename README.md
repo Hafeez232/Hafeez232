@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hafeez
-- 👀 I’m interested in Python and AI
+- 👀 I’m interested in AI and Blockchain
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me is you can contact me on hafeezradzi01@gmail.com
