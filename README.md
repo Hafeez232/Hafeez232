@@ -1,4 +1,4 @@
-# 0xF3Z | Cybersecurity Enthusiast 🛡️
+# Riv3n | Cybersecurity Enthusiast 🛡️
 
 ### 👋 Helloo there! I'm Hafeez.
 I'm a Cybersecurity student and a **continuous learner** who thrives in the terminal.
